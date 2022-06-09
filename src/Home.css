@@ -20,7 +20,8 @@ button{
 .button-three {
     position: relative;
     background-color: lightskyblue;
-    border: none;
+    /*border: none;*/
+    border-radius: 45%;
     padding: 20px;
     width: 200px;
     text-align: center;

@@ -1,4 +1,4 @@
-import { Stage, Layer, Rect, Circle } from 'react-konva';
+import { Stage, Layer, Circle } from 'react-konva';
 
 export default function DrawCircle(){
     return(

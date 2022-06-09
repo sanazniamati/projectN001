@@ -1,7 +1,7 @@
 import  "./Home.css"
 export default  function Home(){
-    const handelDrawCircle=(e)=>{
-        e.draw()
+    const handelDrawCircle=()=>{
+
         console.log("this button is clicked")
     }
     const handelDrawSquare=()=>{
